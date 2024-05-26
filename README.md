@@ -1,16 +1,15 @@
-# gogaadi
+# Flutter App Assignment
 
-A new Flutter project.
+## Download APK
 
-## Getting Started
+You can download the latest version of the APK for our Flutter app from [here](https://drive.google.com/file/d/1PybZG_tRv2wIwdew2AbdFOPnbusgp4sy/view?usp=sharing).
 
-This project is a starting point for a Flutter application.
+## Screens
 
-A few resources to get you started if this is your first Flutter project:
+### Splash Screen
+![Screenshot from 2024-05-26 12-58-47](https://github.com/Thennavan-Hex/Fleettrack-1/assets/96973721/1a2f6fb7-f33f-4ad5-b2c8-b180155f39a0)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Login Screen
+![Screenshot from 2024-05-26 12-58-53](https://github.com/Thennavan-Hex/Fleettrack-1/assets/96973721/6e397da6-29ab-4986-b87c-00ea7d1b582e)
+
